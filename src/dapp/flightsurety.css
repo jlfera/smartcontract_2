@@ -1,0 +1,100 @@
+body {
+    /* background-image: url('flight.jpg');*/ /* Source: iStockPhoto */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 15px;
+    background-color: #343a40;
+    opacity: 0.9;
+    color: #fff;
+    padding: 20px 30px;
+}
+
+.container.top {
+    margin-top: 70px;
+    padding: 20px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h5 {
+    color: #999999;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.field {
+    font-weight: bold;
+    text-align: right;
+}
+
+.field-value {
+    color: #0e7fa8;
+    text-align: left;
+}
+
+label.form {
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+input {
+    margin-right: 30px;
+}
+
+.btn {
+    width: 140px;
+}
+  
+#cos {
+font-weight: bold;
+}
+  
+.cos {
+    color: #0e7fa8;
+}
+  
+.status {
+    margin-top: 10px;
+}
+  
+.btn-clr {
+    margin-right: 15px;
+    padding: 2px 10px;
+    background: #0e7fa8;
+    border-radius: 3px;
+}
+  
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+table,
+  tr,
+  td {
+    border: 1px solid white;
+    color: lightseagreen;
+}
+  
+td {
+    padding: 5px 10px;
+}
+  
+.first {
+    text-align: right;
+}
+  
+.balances {
+    color: lightgray;
+    margin-bottom: 10px;
+}
+  
+.credit {
+    margin-left: 20px;
+}
